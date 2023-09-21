@@ -13,7 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.cicd.ui.theme.CICDTheme
 
 class MainActivity : ComponentActivity() {
-    var str_Data : String = "dsdsdssds"
+    var str_Data : String = "dsdsdssds fdfdf"
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
