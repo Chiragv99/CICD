@@ -9,4 +9,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      -  run: this is work for CICD
+      -  run: this is work for cicd
